@@ -1,4 +1,4 @@
-#Miles's Version
+# Miles's Version
 Communicating with VCU Research Cluster and Google Co-Lab to accelerate the processing time to generate 2D images within Unity
 
 # Stable Diffusion Unity Integration v1.2.6
