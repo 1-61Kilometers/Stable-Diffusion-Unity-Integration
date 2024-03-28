@@ -1,3 +1,6 @@
+#Miles's Version
+Communicating with VCU Research Cluster and Google Co-Lab to accelerate the processing time to generate 2D images within Unity
+
 # Stable Diffusion Unity Integration v1.2.6
 A basic but functional Unity Editor Component for image generation using Stable Diffusion Automatic 1111 [webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) from within the Unity Editor.
 [![Watch the video](screenshot.png)](https://youtu.be/8gf5GPzhgk8)
